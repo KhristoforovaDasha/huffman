@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607688874 source:d:\pc\desktop\woooooooooork\huffman\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<set>
+	<ostream>
+
